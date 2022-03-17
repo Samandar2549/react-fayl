@@ -1,0 +1,112 @@
+header{
+    /* width: 100%; */
+    height: 60px;
+    /* display: flex; */
+    align-items: center;
+    border-bottom: 1px solid #DBDBDB;
+    background-color: #FFFFFF;
+    z-index: 10;
+}
+.search{
+    height: 36px;
+    /* width: 236px; */
+    border: none;
+    border-radius: 5px;
+    background-color: #EFEFEF;
+    padding: 0 16px;
+    outline: none;
+}
+.small-container{
+    width: 60%;
+    margin: 0 auto;
+}
+.searchResult{
+    width: 375px;
+    /* height: 350px; */
+    /* border: 1px solid gray; */
+    box-shadow: 0 0 3px 0px gray;
+    border-radius: 5px;
+    background-color: white;
+    top: 60px;
+    left: 550px;
+    z-index: 5;
+
+}
+.avatar{
+    width: 44px;
+    height: 44px;
+    border: 3px solid #DD326E;
+    padding: 2px;
+
+}
+.fullName{
+    font-size: 15px;
+}
+.general{
+    background-color: #FAFAFA;
+}
+.posticon{
+    height: 150px;
+}
+.rightavatar{
+    width: 56px;
+    height: 56px;
+    border: 3px solid #DD326E;
+    padding: 2px;
+}
+.rightside{
+    right: 100px;
+}
+.main{
+    margin-top: 80px;
+}
+.followlink{
+    text-decoration: none;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    color: #0095F6;
+}
+.textbottom{
+    font-size: 12px;
+}
+.profilpicture{
+    /* width: 150px;
+    height: 150px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.nickname{
+    font-weight: 300;
+    font-size: 30px;
+}
+.editbutton{
+    border: 1px solid black;
+    border-radius: 5px;
+    /* margin-left: 150px; */
+}
+.profillink{
+    text-decoration: none;
+    color: black;
+}
+.comment{
+    border: none;
+    outline: none;
+}
+.bottomlink{
+    font-size: 12px;
+    line-height: 16px;
+    margin: -2px 0 -3px;
+    font-weight: 400;
+    color: rgba(var(--f52,142,142,142),1);
+}
+.messengertop{
+    height: 60px;
+}
+.leftmessenger{
+    border-right: 1px solid #DFDFDF;
+}
+@media (max-width: 768px) {
+    .small-container{
+        width: 95%;
+    }
+}

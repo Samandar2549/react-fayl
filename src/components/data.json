@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nick_name": "zufarbek_abdurahmonov",
+    "full_name": "Zufarbek Abdurakhomonov",
+    "followers": 945,
+    "fololowing": 409,
+    "bio": "phoenixtech.uz  Freelancer Bilim va hayotdagi tajribalarimni ulashaman.",
+    "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe5PABjXc17cjIMOibECLM7ppDwMmiDg6Dw&usqp=CAU",
+    "post_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe5PABjXc17cjIMOibECLM7ppDwMmiDg6Dw&usqp=CAU",
+    "like_post": 53,
+    "save_post": true,
+    "comment_user": "🥳 Musobaqa g'oliblari aniqlandi.",
+    "comments": [
+      {
+        "nickName": "inomjon_nurullayev",
+        "comment": "👏👏👏👏👏👏"
+      },
+      {
+        "nickName": "meher_0305",
+        "comment": "🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "nickName": "otabek_1995",
+        "comment": "🙌🙌🙌🙌🙌"
+      }
+    ],
+    "post_time": 10
+  },
+  {
+    "id": 2,
+    "nick_name": "islombek_oribjonov",
+    "full_name": "Islombek Oribjonov",
+    "followers": 233,
+    "fololowing": 201,
+    "bio": "Harakat oldinga yoki orqaga boladi, tanlovni esa o'zing qabul qilasan",
+    "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4AB6juOL-mmaiM_LkBUo0l87ywDaBRbIqQ&usqp=CAU",
+    "post_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4AB6juOL-mmaiM_LkBUo0l87ywDaBRbIqQ&usqp=CAU",
+    "like_post": 53,
+    "save_post": true,
+    "comment_user": "🥳 Musobaqa g'oliblari aniqlandi.",
+    "comments": [
+      {
+        "nickName": "inomjon_nurullayev",
+        "comment": "👏👏👏👏👏👏"
+      },
+      {
+        "nickName": "meher_0305",
+        "comment": "🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "nickName": "otabek_1995",
+        "comment": "🙌🙌🙌🙌🙌"
+      }
+    ],
+    "post_time": 1
+  },
+  {
+    "id": 3,
+    "nick_name": "inomjon_nurullayev",
+    "full_name": "Inomjon Nurullayev",
+    "followers": 525,
+    "fololowing": 300,
+    "bio": "Yopiq eshiklar yo'q, faqatgina noto'g'ri kalitlar bor xolos...",
+    "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_d3SP2vKOeGFVESn5rk6xnPiQ0naW2e-ldA&usqp=CAU",
+    "post_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_d3SP2vKOeGFVESn5rk6xnPiQ0naW2e-ldA&usqp=CAU",
+    "like_post": 100,
+    "save_post": false,
+    "comment_user": "🥳 Musobaqa g'oliblari aniqlandi.",
+    "comments": [
+      {
+        "nickName": "inomjon_nurullayev",
+        "comment": "👏👏👏👏👏👏"
+      },
+      {
+        "nickName": "meher_0305",
+        "comment": "🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "nickName": "otabek_1995",
+        "comment": "🙌🙌🙌🙌🙌"
+      }
+    ],
+    "post_time": 14
+  },
+  {
+    "id": 4,
+    "nick_name": "samandar_malikov",
+    "full_name": "Samandar Malikov",
+    "followers": 364,
+    "fololowing": 257,
+    "bio": "Masala kimnidir “hayotim” deyishlik emas. Asl masala kimgadir “hayot” bo'la olishlikdir.",
+    "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7goA_SlBqmLeiNz4k4F6OV2kZwgF8ybxbQ&usqp=CAU",
+    "post_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7goA_SlBqmLeiNz4k4F6OV2kZwgF8ybxbQ&usqp=CAU",
+    "like_post": 146,
+    "save_post": false,
+    "comment_user": "🥳 Musobaqa g'oliblari aniqlandi.",
+    "comments": [
+      {
+        "nickName": "inomjon_nurullayev",
+        "comment": "👏👏👏👏👏👏"
+      },
+      {
+        "nickName": "meher_0305",
+        "comment": "🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "nickName": "otabek_1995",
+        "comment": "🙌🙌🙌🙌🙌"
+      }
+    ],
+    "post_time": 5
+  },
+  {
+    "id": 5,
+    "nick_name": "turobjonov_yorkin",
+    "full_name": "Turobjonov Yorkin",
+    "followers": 1025,
+    "fololowing": 954,
+    "bio": "Ummon qanchalik katta bo'lsa bo'lsin, Inson undan faqatgina o'z kafti miqdoricha suv ola oladi....",
+    "profile_img": "https://i.pinimg.com/originals/14/9c/4a/149c4aba99914eb43fa544e3bad2e89c.png",
+    "post_img": "https://i.pinimg.com/originals/14/9c/4a/149c4aba99914eb43fa544e3bad2e89c.png",
+    "like_post": 146,
+    "save_post": false,
+    "comment_user": "🥳 Musobaqa g'oliblari aniqlandi.",
+    "comments": [
+      {
+        "nickName": "inomjon_nurullayev",
+        "comment": "👏👏👏👏👏👏"
+      },
+      {
+        "nickName": "meher_0305",
+        "comment": "🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      },
+      {
+        "nickName": "otabek_1995",
+        "comment": "🙌🙌🙌🙌🙌"
+      }
+    ],
+    "post_time": 3
+  }
+]
